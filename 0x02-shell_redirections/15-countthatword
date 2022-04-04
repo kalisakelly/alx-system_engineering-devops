@@ -1,2 +1,2 @@
 #!/bin/bash
-grep bin /etc/passwd | uc -1
+grep bin /etc/passwd | uc -l
